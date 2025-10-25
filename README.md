@@ -1,6 +1,6 @@
-# SilverTongued
+# SilverTongued - Sentence Recitation App
 
-A brief description of your project.
+Develop a modern mobile application for users to input, manage, categorize, and track the usage frequency of personalized recitation sentences and quotes.
 
 ## Project Structure
 

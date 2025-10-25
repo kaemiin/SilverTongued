@@ -1,0 +1,36 @@
+{
+  "name": "silvertongued",
+  "version": "1.0.0",
+  "author": "Kaemiin Chang / kaemiinwork@gmail.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@react-native-async-storage/async-storage": "1.21.0",
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.9.17",
+    "@react-navigation/stack": "^6.4.1",
+    "expo": "~50.0.14",
+    "expo-av": "~13.10.6",
+    "expo-status-bar": "~1.11.1",
+    "framer-motion": "^12.23.24",
+    "jotai": "^2.15.0",
+    "native-base": "^2.15.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-gesture-handler": "^2.29.0",
+    "react-native-safe-area-context": "^4.8.2",
+    "react-native-screens": "~3.29.0",
+    "react-native-svg": "14.1.0",
+    "react-native-web": "^0.19.13",
+    "zustand": "^5.0.8"
+  },
+  "private": false
+}
